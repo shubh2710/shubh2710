@@ -84,7 +84,7 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
   
  <p float="left">
   <a href="https://cassandra.apache.org/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/main/assets/cassandra.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/cassandra.png" height="90" />&nbsp;&nbsp;
   </a>
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
@@ -92,11 +92,11 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
   </a>
   &nbsp;
     <a href="https://www.mysql.com/" target="_blank" >
-      <img src="https://github.com/shubh2710/shubh2710/main/assets/sql.gif" height="80" />
+      <img src="https://github.com/shubh2710/shubh2710/main/assets/sql.png" height="80" />
     </a>
      &nbsp;
     <a href="https://www.couchbase.com/" target="_blank" >
-      <img src="https://github.com/shubh2710/shubh2710/main/assets/couchbase.gif" height="80" />
+      <img src="https://github.com/shubh2710/shubh2710/main/assets/couchbase.png" height="80" />
     </a>
 </p>
 <br>
