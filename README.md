@@ -25,7 +25,7 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
   <a href="https://spring.io/" target="_blank" >
     <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/spring.png"  height="90" />
   </a>
-    <a href="https://www.python.org/" target="_blank" >
+    <a href="https://www.android.com/" target="_blank" >
     <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/android.gif"  height="80" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -83,16 +83,20 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 ### Databases
   
  <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/cassandra.gif" height="90" />&nbsp;&nbsp;
+  <a href="https://cassandra.apache.org/" target="_blank" >
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/cassandra.gif" height="90" />&nbsp;&nbsp;
   </a>
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/mongo.gif" height="80" />
   </a>
   &nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" >
-      <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/sql.gif" height="80" />
+    <a href="https://www.mysql.com/" target="_blank" >
+      <img src="https://github.com/shubh2710/shubh2710/main/assets/sql.gif" height="80" />
+    </a>
+     &nbsp;
+    <a href="https://www.couchbase.com/" target="_blank" >
+      <img src="https://github.com/shubh2710/shubh2710/main/assets/couchbase.gif" height="80" />
     </a>
 </p>
 <br>
