@@ -16,10 +16,20 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
     <a href="https://www.python.org/" target="_blank" >
     <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/python.png"  height="80" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
 </p>
 <br>
 
+### Frameworks
+
+<p float="left">
+  <a href="https://spring.io/" target="_blank" >
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/spring.png"  height="90" />
+  </a>
+    <a href="https://www.python.org/" target="_blank" >
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/android.gif"  height="80" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
 
 ### Robotics/embedded
   
@@ -38,6 +48,7 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 </p>
 
 <br>
+
 ### Continuous Integration & Continuous Deployment
 
 <p float="left">
@@ -62,8 +73,8 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
     <a href="https://nodejs.org/en/" target="_blank" >
     <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/node.png" height="70" />&nbsp;&nbsp;
   </a>
-    <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/angular.png" height="70" />
+    <a href="https://angularjs.org/" target="_blank" >
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/angular.gif" height="70" />
   </a>
  </p>
 <br>
