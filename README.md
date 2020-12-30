@@ -25,15 +25,15 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
   
  <p float="left">
   <a href="https://www.raspberrypi.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/pi.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/pi.gif" height="90" />&nbsp;&nbsp;
   </a>
   &nbsp;
   <a href="https://www.arduino.cc/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/arduino.gif" height="80" />
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/arduino.gif" height="80" />
   </a>
   &nbsp;
     <a href="https://www.nodemcu.com/index_en.html" target="_blank" >
-      <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/nodemcu.gif" height="80" />
+      <img src="https://github.com/shubh2710/shubh2710/main/assets/nodemcu.gif" height="80" />
     </a>
 </p>
 
@@ -42,13 +42,13 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 
 <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/docker.gif"  height="80" /> 
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/docker.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/k8s.gif"  height="75" />
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/k8s.gif"  height="75" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/cicd.gif"  height="65" />
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/cicd.gif"  height="65" />
   </a>&nbsp;&nbsp;
 </p>
 <br>
@@ -57,7 +57,7 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 
 <p float="left">
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/html-css-js.png" height="70" />&nbsp;&nbsp;
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/html-css-js.png" height="70" />&nbsp;&nbsp;
   </a>
     <a href="https://nodejs.org/en/" target="_blank" >
     <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/node.png" height="70" />&nbsp;&nbsp;
@@ -73,15 +73,15 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
   
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/cassandra.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/cassandra.gif" height="90" />&nbsp;&nbsp;
   </a>
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/mongo.gif" height="80" />
+    <img src="https://github.com/shubh2710/shubh2710/main/assets/mongo.gif" height="80" />
   </a>
   &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" >
-      <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/sql.gif" height="80" />
+      <img src="https://github.com/shubh2710/shubh2710/main/assets/sql.gif" height="80" />
     </a>
 </p>
 <br>
