@@ -128,14 +128,6 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
     </a>
     </li>
 </ul>
-    
-### Know More ??
-
-
-
-Visit my website <a href="http://shubh2710.github.io/" target="_blank" >
-       click here
-</a>
 
 
 ### 📫 How to contact me? 
