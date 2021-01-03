@@ -101,6 +101,36 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 </p>
 <br>
 
+### Working on
+    Currently developing software for smarthome device that will work same as alexa with more features that you can custmized 
+
+### Wana check out my currect project ??
+    
+<ul>
+    <li>
+        <a href="https://github.com/shubh2710/crisper" target="_blank" >
+            [crisper the solution for smart home]
+        </a>
+     </li>
+     <li>
+         <a href="https://github.com/shubh2710/jassicaAI" target="_blank" >
+                [Jesscia the Pyhton AI]
+         </a>
+     </li>   
+    <li>
+    <a href="https://www.couchbase.com/" target="_blank" >
+        [android application to intract with smart home server]
+    </a>
+    </li>
+    <li>
+    <a href="https://github.com/shubh2710/Embedded" target="_blank" >
+        [Script for Embedded Raspberry Pi, arduino , ESP8266]
+    </a>
+    </li>
+</ul>
+    
+
+
 ### 📫 How to contact me? 
 
   ⦿ Visit my [Website](https://shubh2710.github.io/) 🌐 <br>
