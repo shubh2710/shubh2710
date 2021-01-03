@@ -11,10 +11,10 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 
 <p float="left">
   <a href="https://www.java.com/en/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/java.png"  height="90" />
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/java.png"  height="60" />
   </a>
     <a href="https://www.python.org/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/python.png"  height="80" />
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/python.png"  height="60" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -23,10 +23,10 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 
 <p float="left">
   <a href="https://spring.io/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/spring.png"  height="90" />
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/spring.png"  height="60" />
   </a>
     <a href="https://www.android.com/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/android.gif"  height="80" />
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/android.gif"  height="60" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -35,15 +35,15 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
   
  <p float="left">
   <a href="https://www.raspberrypi.org/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/pi.png" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/pi.png" height="60" />&nbsp;&nbsp;
   </a>
   &nbsp;
   <a href="https://www.arduino.cc/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/arduino.png" height="80" />
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/arduino.png" height="60" />
   </a>
   &nbsp;
     <a href="https://www.nodemcu.com/index_en.html" target="_blank" >
-      <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/nodemcu.png" height="80" />
+      <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/nodemcu.png" height="60" />
     </a>
 </p>
 
@@ -53,13 +53,13 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 
 <p float="left">
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/docker.gif"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/docker.gif"  height="60" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/k8s.gif"  height="60" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/cicd.gif"  height="65" />
+    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/cicd.gif"  height="60" />
   </a>&nbsp;&nbsp;
 </p>
 <br>
@@ -68,13 +68,13 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 
 <p float="left">
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/html-css-js.png" height="70" />&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/html-css-js.png" height="60" />&nbsp;&nbsp;
   </a>
     <a href="https://nodejs.org/en/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/node.png" height="70" />&nbsp;&nbsp;
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/node.png" height="60" />&nbsp;&nbsp;
   </a>
     <a href="https://angularjs.org/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/angular.gif" height="70" />
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/angular.gif" height="60" />
   </a>
  </p>
 <br>
@@ -84,19 +84,19 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
   
  <p float="left">
   <a href="https://cassandra.apache.org/" target="_blank" >
-    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/cassandra.png" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/cassandra.png" height="60" />&nbsp;&nbsp;
   </a>
   &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/mongo.gif" height="80" />
+    <img src="https://raw.githubusercontent.com/shubh2710/shubh2710/main/assets/mongo.gif" height="60" />
   </a>
   &nbsp;
     <a href="https://www.mysql.com/" target="_blank" >
-      <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/sql.png" height="80" />
+      <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/sql.png" height="60" />
     </a>
      &nbsp;
     <a href="https://www.couchbase.com/" target="_blank" >
-      <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/couchbase.png" height="80" />
+      <img src="https://github.com/shubh2710/shubh2710/blob/main/assets/couchbase.png" height="60" />
     </a>
 </p>
 <br>
@@ -118,7 +118,7 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
          </a>
      </li>   
     <li>
-    <a href="https://www.couchbase.com/" target="_blank" >
+    <a href="https://github.com/shubh2710/crispapp" target="_blank" >
         [android application to interact with smart home server]
     </a>
     </li>
@@ -129,6 +129,13 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
     </li>
 </ul>
     
+### Know More ??
+
+
+
+Visit my website <a href="http://shubh2710.github.io/" target="_blank" >
+       click here
+</a>
 
 
 ### 📫 How to contact me? 
