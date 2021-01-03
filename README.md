@@ -114,12 +114,12 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
      </li>
      <li>
          <a href="https://github.com/shubh2710/jassicaAI" target="_blank" >
-                [Jesscia the Pyhton AI]
+                [Jesscia the Python AI]
          </a>
      </li>   
     <li>
     <a href="https://www.couchbase.com/" target="_blank" >
-        [android application to intract with smart home server]
+        [android application to interact with smart home server]
     </a>
     </li>
     <li>
