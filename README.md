@@ -104,7 +104,7 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
 ### Working on
     Currently developing software for smarthome device that will work same as alexa with more features that you can custmized 
 
-### Wana check out my currect project ??
+### Wana check out my current project ??
     
 <ul>
     <li>
