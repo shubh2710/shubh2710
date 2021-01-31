@@ -129,8 +129,9 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
     </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh2710&layout=compact&theme=radical)]
-### 📫 How to contact me? 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh2710&layout=compact&theme=radical)
+
+### 📫 Get in touch? 
 
   ⦿ Visit my [Website](https://shubh2710.github.io/) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-gulati-b617a7156/) 👨🏻‍💻 <br>
