@@ -129,8 +129,7 @@ I like to work with Java, Cloud-Native, embedded and Robotics.☁️🚀
     </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh2710&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh2710&layout=compact&theme=radical)]
 ### 📫 How to contact me? 
 
   ⦿ Visit my [Website](https://shubh2710.github.io/) 🌐 <br>
